@@ -50,14 +50,14 @@ More information at [vendettacrypto.com](http://www.vendettacrypto.com) Visit ou
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 1</td><td>259201-302399</td><td>50 PIV</td><td>90% (45 VDX)</td><td>10% (5 VDX)</td></tr>
-<tr><td>Phase 2</td><td>302400-345599</td><td>45 PIV</td><td>90% (40.5 VDX)</td><td>10% (4.5 VDX)</td></tr>
-<tr><td>Phase 3</td><td>345600-388799</td><td>40 PIV</td><td>90% (36 VDX)</td><td>10% (4 VDX)</td></tr>
-<tr><td>Phase 4</td><td>388800-431999</td><td>35 PIV</td><td>90% (31.5 VDX)</td><td>10% (3.5 VDX)</td></tr>
-<tr><td>Phase 5</td><td>432000-475199</td><td>30 PIV</td><td>90% (27 VDX)</td><td>10% (3 VDX)</td></tr>
-<tr><td>Phase 6</td><td>475200-518399</td><td>25 PIV</td><td>90% (22.5 VDX)</td><td>10% (2.5 VDX)</td></tr>
-<tr><td>Phase 7</td><td>518400-561599</td><td>20 PIV</td><td>90% (18 VDX)</td><td>10% (2 VDX)</td></tr>
-<tr><td>Phase 8</td><td>561600-604799</td><td>15 PIV</td><td>90% (13.5 VDX)</td><td>10% (1.5 VDX)</td></tr>
-<tr><td>Phase 9</td><td>604800-647999</td><td>10 PIV</td><td>90% (9 VDX)</td><td>10% (1 VDX)</td></tr>
-<tr><td>Phase X</td><td>648000-Infinite</td><td>5 PIV</td><td>90% (4.5 VDX)</td><td>10% (0.5VDX)</td></tr>
+<tr><td>Phase 1</td><td>259201-302399</td><td>50 VDX</td><td>90% (45 VDX)</td><td>10% (5 VDX)</td></tr>
+<tr><td>Phase 2</td><td>302400-345599</td><td>45 VDX</td><td>90% (40.5 VDX)</td><td>10% (4.5 VDX)</td></tr>
+<tr><td>Phase 3</td><td>345600-388799</td><td>40 VDX</td><td>90% (36 VDX)</td><td>10% (4 VDX)</td></tr>
+<tr><td>Phase 4</td><td>388800-431999</td><td>35 VDX</td><td>90% (31.5 VDX)</td><td>10% (3.5 VDX)</td></tr>
+<tr><td>Phase 5</td><td>432000-475199</td><td>30 VDX</td><td>90% (27 VDX)</td><td>10% (3 VDX)</td></tr>
+<tr><td>Phase 6</td><td>475200-518399</td><td>25 VDX</td><td>90% (22.5 VDX)</td><td>10% (2.5 VDX)</td></tr>
+<tr><td>Phase 7</td><td>518400-561599</td><td>20 VDX</td><td>90% (18 VDX)</td><td>10% (2 VDX)</td></tr>
+<tr><td>Phase 8</td><td>561600-604799</td><td>15 VDX</td><td>90% (13.5 VDX)</td><td>10% (1.5 VDX)</td></tr>
+<tr><td>Phase 9</td><td>604800-647999</td><td>10 VDX</td><td>90% (9 VDX)</td><td>10% (1 VDX)</td></tr>
+<tr><td>Phase X</td><td>648000-Infinite</td><td>5 VDX</td><td>90% (4.5 VDX)</td><td>10% (0.5VDX)</td></tr>
 </table>
