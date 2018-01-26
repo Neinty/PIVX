@@ -41,7 +41,7 @@ More information at [vendettacrypto.com](http://www.vendettacrypto.com) Visit ou
 
 <table>
 <th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>2-43200</td><td>20% (50 VDX)</td><td>80% (200 VX)</td><td>N/A</td></tr>
+<tr><td>2-43200</td><td>20% (50 VX)</td><td>80% (200 VX)</td><td>N/A</td></tr>
 <tr><td>43201-151200</td><td>20% (50 VX)</td><td>70% (200 VX)</td><td>10% (25 VX)</td></tr>
 <tr><td>151201-259200</td><td>45% (22.5 VX)</td><td>45% (22.5 VX)</td><td>10% (5 VX)</td></tr>
 </table>
